@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Welcome to my blog!👋: [[Colin‘s Blog]](https://colin.khlfyy.top)
+## Welcome to my blog!👋: [[Colin‘s Blog]](http://dlcolin.cn)
 
  ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colin-614&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,C9D6FF,E2E2E2&title_color=005AA7&icon_color=005AA7&text_color=005AA7)
 
